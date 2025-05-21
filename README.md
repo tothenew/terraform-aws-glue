@@ -1,7 +1,7 @@
 # terraform-aws-glue
 
-[![Lint Status](https://github.com/your-organization/terraform-aws-glue/workflows/Lint/badge.svg)](https://github.com/your-organization/terraform-aws-glue/actions)  
-[![LICENSE](https://img.shields.io/github/license/your-organization/terraform-aws-glue)](https://github.com/your-organization/terraform-aws-glue/blob/master/LICENSE)
+[![Lint Status](https://github.com/tothenew/terraform-aws-glue/workflows/Lint/badge.svg)](https://github.com/tothenew/terraform-aws-glue/actions)
+[![LICENSE](https://img.shields.io/github/license/tothenew/terraform-aws-glue)](https://github.com/tothenew/terraform-aws-glue/blob/master/LICENSE)
 
 This Terraform module provisions and configures **AWS Glue** resources, specifically **Glue Databases** and **Glue Jobs**, within a given AWS environment. It supports defining custom job properties such as script location, IAM role, connections, and job capacity.
 
@@ -84,8 +84,8 @@ module "glue_job" {
 
 ## Authors
 
-Module managed by [Your Organization](https://github.com/your-organization)
+Module managed by [TO THE NEW Pvt. Ltd.](https://github.com/tothenew)
 
 ## License
 
-Apache 2 Licensed. See [LICENSE](https://github.com/your-organization/terraform-aws-glue/blob/main/LICENSE) for full details.
+Apache 2 Licensed. See [LICENSE](https://github.com/tothenew/terraform-aws-activemq/blob/main/LICENSE) for full details.
